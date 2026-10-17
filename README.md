@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Taiwo John Olamilekan
 
-<!--
-**Johnny-xticks/Johnny-xticks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Operations Specialist and Multimodal Data Annotator. My work includes reviewing and labeling image, audio, video, and text data, evaluating AI-generated responses, and checking dataset quality against project guidelines.
 
-Here are some ideas to get you started:
+## Areas of work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Multimodal annotation and data labeling
+- AI and LLM response evaluation for accuracy, relevance, consistency, and instruction adherence
+- Data validation, quality assurance, and dataset curation
+- Research, categorization, and content review
+- Human-in-the-loop feedback for AI and machine-learning workflows
+
+## Tools
+
+Label Studio · Outlier AI · Microsoft Excel · Google Sheets · Google Docs · ChatGPT · VLC Media Player · Canva
+
+## Background
+
+B.Sc. in Applied Geology, Federal University of Technology, Akure (2025).
+
+Certifications: AI for Everyone (Coursera, 2022) and Data Annotation & Labeling Fundamentals (Udemy, 2021).
